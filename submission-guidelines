@@ -1,0 +1,36 @@
+# Submission Guidelines for GitHub Wiki
+
+## Repository Setup
+1. **Fork the Main Repository**: Start by forking the department’s main GitHub repository [here](<insert-main-repo-link>).
+2. **Clone Your Fork**: Clone your forked repository to your local machine.
+
+## Development Workflow
+1. **Create a New Branch**: Create a new branch for your project (e.g., `feature/project-name`).
+2. **Commit Regularly**: Make regular commits with clear, descriptive messages.
+3. **Use Pull Requests**: Submit your project by creating a pull request to the main repository.
+
+## Project Requirements
+1. **Open-Source License**: Use an open-source license (preferably Apache v2.0) and include a `LICENSE` file.
+2. **Documentation**: Ensure all code is well-documented. Include headers in each source file with the author's name and license information.
+3. **Include Data Files**: Include all necessary data files required for the project.
+
+## README.md Structure
+Your `README.md` file serves as the main report for your project and must include the following sections:
+- **Overview**: Brief summary of the project and its objectives.
+- **Project Requirements**: Key requirements and goals.
+- **Build Instructions**: Step-by-step instructions on how to compile and build the code.
+- **Dependencies**: List of dependencies required to run the project.
+- **Usage Instructions**: Detailed usage instructions.
+- **Limitations and Known Issues**: Any current limitations and known issues.
+- **Design Details**: Architectural view and detailed component design.
+- **Demo Video**: Link to a 2-3 minute video demonstrating the project.
+- **References**: List of all references used.
+
+## Submission Process
+1. **Create a Pull Request**: After completing the project, create a pull request from the forked repository to the main repository.
+2. **Review**: Submissions will be reviewed by a professor. Ensure all feedback is addressed.
+3. **Merge**: Once approved, the pull request will be merged into the main repository.
+
+For any questions or further assistance, please refer to:
+- [GitHub Documentation](https://docs.github.com/)
+- [Open-Source Licenses](https://opensource.org/licenses)
